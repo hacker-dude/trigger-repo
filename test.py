@@ -1,3 +1,3 @@
 def some_fucntion():
-    pass
+    return 1+1
 
